@@ -4,7 +4,7 @@
 
 ```bash
 > whoami
-Dhinar - Cybersecurity | Semarang, ID
+Dhinar - Cybersecurity | Karanganyar, ID
 
 > cat /etc/motd
 "Security is not a product, but a process."
